@@ -1,0 +1,22 @@
+.topbar-profile-photo{
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+.link-menu {
+    color: black;
+}
+
+.story-profile-photo {
+    width: 56px;
+    height: 56px;
+    position: relative;
+    border-width: 2px !important;
+}
+.post-profile-photo {
+    width: 46px;
+    height: 46px;
+    position: relative;
+    border-width: 2px !important;
+}
